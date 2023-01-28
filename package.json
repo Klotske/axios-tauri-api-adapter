@@ -9,6 +9,7 @@
     "http",
     "adapter"
   ],
+  "type": "module",
   "homepage": "https://github.com/persiliao/axios-tauri-api-adapter#readme",
   "bugs": {
     "url": "https://github.com/persiliao/axios-tauri-api-adapter/issues"
